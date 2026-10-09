@@ -25,7 +25,7 @@ GITHUB_RAW_URL = "https://raw.githubusercontent.com/devlop1094-gif/DDos/refs/hea
 MAX_THREADS = 400
 DEFAULT_TIMEOUT = 4
 MAX_DURATION = 300
-NOTIFY_WEBHOOK = os.environ.get("NOTIFY_WEBHOOK", "https://discord.com/api/webhooks/1557328014608568350/e45Z1hUnwhGj-SkjZrQej25lVzfbFiWPGEPIfH7_HKB0_d_VXVUbjt4ZYVo07JTMK5Qm")
+NOTIFY_WEBHOOK = os.environ.get("NOTIFY_WEBHOOK", "https://discord.com/api/webhooks/1558091697383145483/nkQ1bCKCCYkzpGfBf-1vnks2LdL7Ij50t3YFcqj2yz5uNF9LI5l7ampyxHt_aSgcOnG1")
 # ====================================================
 
 USER_AGENTS = [
